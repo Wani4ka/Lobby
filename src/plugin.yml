@@ -1,0 +1,6 @@
+name: Wani4kaLobby
+description: Addon for lobby servers
+author: Wani4ka
+version: A
+website: https://vk.com/siriusosirius
+main: me.wani4ka.lobby.Lobby

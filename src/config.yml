@@ -1,0 +1,13 @@
+
+# Location in 'world' world where player will appear on join or fall out
+spawn: '0:100:0:0:0'
+
+# Any cmds that are not in this list will be cancelled
+allowed-cmds:
+- 'skin'
+- 'skin set'
+- 'link'
+- 'unlink'
+
+# This message will be sent to player when he entered a denied command
+cmd-denied-msg: '&eКоманда не наgйдена!'
